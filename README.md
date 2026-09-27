@@ -34,6 +34,10 @@ Z4/
 | `05-statya-oshibki.png` | Статья: 5 ошибок |
 | `06-statya-ukladka-mobile.png` | Статья: технология, 375px |
 
+**Лендинг — полная страница** (как в `01-landing-desktop.png`, сжат в WebP для README):
+
+[![Лендинг «Укладка брусчатки» — полная страница](screenshots/01-landing-desktop.webp)](screenshots/01-landing-desktop.webp)
+
 Телефон везде: `+7 (900) 000-00-00` → `tel:+79000000000` (заглушка проекта).
 
 ---
